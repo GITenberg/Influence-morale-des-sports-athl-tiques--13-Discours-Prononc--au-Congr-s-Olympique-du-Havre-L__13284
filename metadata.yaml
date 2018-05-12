@@ -1,0 +1,33 @@
+_repo: Influence-morale-des-sports-athl-tiques--13-Discours-Prononc--au-Congr-s-Olympique-du-Havre-L__13284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Didon, père (Henri)
+    aliases:
+    - Didon, Henri
+    - Didon, P. (Henri)
+    - Didon, pere (Henri)
+    birthdate: 1840
+    deathdate: 1900
+    gutenberg_agent_id: '4975'
+    url: http://www.gutenberg.org/2009/agents/4975
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Didon
+description: ''
+gutenberg_bookshelf: FR Sports et loisirs
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13284'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Sports -- Moral and ethical aspects'
+title: "Influence morale des sports athlétiques\r\nDiscours Prononcé au Congrès Olympique\
+  \ du Havre, Le 29 Juillet 1897."
+url: http://www.gutenberg.org/ebooks/13284
