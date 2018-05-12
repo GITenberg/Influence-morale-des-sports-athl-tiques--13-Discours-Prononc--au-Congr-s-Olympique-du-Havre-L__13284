@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4975
     wikipedia: http://en.wikipedia.org/wiki/Henri_Didon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13284#Influence-morale-des-sports-athl-tiques--13-Discours-Prononc--au-Congr-s-Olympique-du-Havre-L_
 gutenberg_bookshelf: FR Sports et loisirs
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
